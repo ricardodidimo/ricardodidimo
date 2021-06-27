@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**ricardodidimo/ricardodidimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-didimo-558630209/)](https://www.linkedin.com/in/ricardo-didimo-558630209/)
 
-Here are some ideas to get you started:
+### 👋 Hey, read me. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a brazilian full time curious finding my way into backend web development. 🏳️ ** Currently looking for a job opportunity ** 🏳️
+
+### 📖 Currently learning
+
+ - .NET ecosystem with C# language and ASPNET Core web framework
+ - Angular, The Javascript Framework 
+ - Software design and architecture
+
+<!-- ### 🔰 Currently working on -->
+
+### 💬 Contact me 
+send me an email ** RicardoDidimoDev@outlook.com ** 
