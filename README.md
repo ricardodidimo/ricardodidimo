@@ -3,7 +3,7 @@
 
 ### 👋 Hey, read me. 
 
-I'm a brazilian full time curious finding my way into backend web development. 🏳️ ** Currently looking for a job opportunity ** 🏳️
+I'm a brazilian full time curious finding my way into backend web development. 🏳️ **Currently looking for a job opportunity** 🏳️
 
 ### 📖 Currently learning
 
@@ -14,4 +14,4 @@ I'm a brazilian full time curious finding my way into backend web development. �
 <!-- ### 🔰 Currently working on -->
 
 ### 💬 Contact me 
-send me an email ** RicardoDidimoDev@outlook.com ** 
+send me an email **RicardoDidimoDev@outlook.com** 
