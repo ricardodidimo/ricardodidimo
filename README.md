@@ -8,7 +8,7 @@ I'm a brazilian full time curious finding my way into backend web development. �
 ### 📖 Currently learning
 
  - .NET ecosystem with C# language and ASPNET Core web framework;
- - Angular, Javascript Framework;
+ - Data structures and algorithms;
  - Clean Code and Software design.
 
 <!-- ### 🔰 Currently working on -->
