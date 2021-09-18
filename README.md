@@ -9,7 +9,7 @@ I'm a brazilian full time curious finding my way into backend web development. ð
 
  - .NET ecosystem with C# language and ASPNET Core web framework;
  - Data structures and algorithms;
- - Clean Code and Software design.
+ - Web application security.
 
 <!-- ### ðŸ”° Currently working on -->
 
