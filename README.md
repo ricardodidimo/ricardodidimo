@@ -7,7 +7,7 @@ I'm a brazilian full time curious finding my way into backend web development. ð
 
 ### Currently learning
 
- - .NET ecosystem with C# language and ASPNET Core web framework;
+ - PHP ecosystem and Laravel web framework;
  - Data structures and algorithms;
  - Web application security.
 
