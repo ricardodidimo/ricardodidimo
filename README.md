@@ -7,9 +7,8 @@ I'm a brazilian full time curious finding my way into backend web development. ð
 
 ### Currently learning
 
- - C#/ASPNET & PHP/Laravel;
- - Data structures and algorithms;
- - Web application security.
+ - PHP & Laravel;
+ - Data structures and problem solving;
 
 <!-- ### ðŸ”° Currently working on -->
 
