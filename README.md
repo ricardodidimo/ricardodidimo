@@ -3,14 +3,20 @@
 
 <h1>💜 Hey, read me.</h1> 
 
-<p>I'm a brazilian full time curious finding my way into backend web development. 🏳️ <strong>Currently looking for a job opportunity</strong> 🏳️</p>
+<p>I'm a brazilian full time curious finding my way into backend web development.</p>
 
 <h2>Currently learning</h2>
 <div>
-<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />           
-<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />      
-<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+    <img align="center" alt="Java" height="50" width="50"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img align="center" alt="Spring boot" height="50" width="50" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+    <img align="center" alt="Typescript" height="50" width="50" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+      <img align="center" alt="React" height="50" width="50" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+
 </div>
 <h2>Stats</h2>
 <div>
