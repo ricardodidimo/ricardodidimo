@@ -7,13 +7,14 @@
 
 <h2>Currently learning</h2>
 <div>
-    <img align="center" alt="Java" height="50" width="50"
+    <img align="center" alt="Java" height="40" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img align="center" alt="Spring boot" height="50" width="50" 
+    <img align="center" alt="Spring boot" height="40" width="40" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-    <img align="center" alt="Typescript" height="50" width="50" 
+  &nbsp&nbsp&nbsp&nbsp
+    <img align="center" alt="Typescript" height="40" width="40" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-      <img align="center" alt="React" height="50" width="50" 
+      <img align="center" alt="React" height="40" width="40" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 
