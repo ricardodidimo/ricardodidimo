@@ -20,4 +20,4 @@
 </div>
 
 <h2>Contact me</h2> 
-<p>Send me an email <strong>RicardoDidimoDev@outlook.com</strong> </p>
+<p>Send me an email <strong>ricardodidimo21@gmail.com</strong> </p>
